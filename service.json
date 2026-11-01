@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01",
+    "icon": "🤖",
+    "title": "AI Builder",
+    "description": "Build custom AI tools, chatbots and automation systems powered by modern models.",
+    "tags": ["AI", "Automation", "Chatbots"]
+  },
+  {
+    "id": "02",
+    "icon": "🎮",
+    "title": "Game Builder",
+    "description": "Create 2D and 3D games with custom mechanics, physics and gameplay systems.",
+    "tags": ["Game", "2D/3D", "Physics"]
+  },
+  {
+    "id": "03",
+    "icon": "🧠",
+    "title": "AI Builder for Backend",
+    "description": "Integrate AI directly into your backend — smart APIs, prediction and data pipelines.",
+    "tags": ["Backend", "API", "AI"]
+  },
+  {
+    "id": "04",
+    "icon": "⚖️",
+    "title": "Compare Software",
+    "description": "Compare tools, software and stacks side by side to pick the best option for your project.",
+    "tags": ["Compare", "Tools", "Analysis"]
+  },
+  {
+    "id": "05",
+    "icon": "🌐",
+    "title": "Web Builder",
+    "description": "Build fast, responsive and modern websites and web applications from scratch.",
+    "tags": ["Web", "Frontend", "Responsive"]
+  }
+]
